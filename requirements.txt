@@ -1,0 +1,6 @@
+ddgs
+requests
+pandas
+streamlit
+numpy
+scikit-learn
